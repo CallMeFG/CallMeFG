@@ -11,7 +11,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmefg&theme=dark" alt="callmefg" /></p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CallMeFG/CallMeFG/output/pacman-contribution-graph-dark.svg">
