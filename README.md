@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fathur Rizky Assani</h1>
 <h3 align="center">Student at Polytechnic Caltex Riau, ungraduated. interested in backend specialization, especially php and java languages.</h3>
 
+- 🌱 I’m currently learning **Framework Laravel 12 at now.**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmefg&label=Profile%20views&color=0e75b6&style=flat" alt="callmefg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callmefg" alt="callmefg" /></a> </p>
 
-- 🌱 I’m currently learning **Framework Laravel 12 at now.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callmefg&show_icons=true&theme=merko&title_color=111212&text_color=ffffff&bg_color=6910c1&locale=en" alt="callmefg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmefg&theme=dark" alt="callmefg" /></p>
+![Snake animation]
+(https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
