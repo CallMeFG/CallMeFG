@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmefg&theme=dark" alt="callmefg" /></p>
 ![Snake animation]
-(https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/CallMeFG/CallMeFG/blob/output/github-contribution-grid-snake.svg)
