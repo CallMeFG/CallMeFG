@@ -19,5 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callmefg&show_icons=true&theme=merko&title_color=111212&text_color=ffffff&bg_color=6910c1&locale=en" alt="callmefg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmefg&theme=dark" alt="callmefg" /></p>
-![Snake animation]
-(https://github.com/CallMeFG/CallMeFG/blob/output/github-contribution-grid-snake.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
