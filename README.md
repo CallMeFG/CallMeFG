@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmefg&label=Profile%20views&color=0e75b6&style=flat" alt="callmefg" /> </p>
 
 <h1 align="center">Hi 👋, I'm Fathur Rizky Assani</h1>
-<h3 align="center">Undergraduate Student at Polytechnic Caltex Riau. Interested in backend development, especially PHP and Java.</h3>
+<h3 align="center">Undergraduate Student at Polytechnic Caltex Riau. Interested in backend development, especially PHP.</h3>
 
 - 🌱 I’m currently learning **Laravel 12** and **React**.
 
