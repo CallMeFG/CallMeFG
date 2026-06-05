@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=callmefg&label=Profile%20views&color=0e75b6&style=flat" alt="callmefg" /> </p>
-
 <h1 align="center">Hi 👋, I'm Fathur Rizky Assani</h1>
 <h3 align="center">Undergraduate Student at Polytechnic Caltex Riau. Interested in backend development, especially PHP.</h3>
 
